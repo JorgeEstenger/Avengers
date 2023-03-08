@@ -2,3 +2,4 @@
 
 *Loki
 *Thanos
+*Dr Octopus
