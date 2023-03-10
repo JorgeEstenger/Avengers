@@ -1,5 +1,5 @@
 
-### Lis of Marvels Heroes
+### List of Marvels Heroes
 
 * Spider-Man 
 * Wolverine 
